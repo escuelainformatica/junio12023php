@@ -1,8 +1,5 @@
 # laravel blade componentes slot
 
-* crear el componente
-
-```
-php artisan make:component Tarjeta
-```
+Ejercicio
+* Agregue un componente de paginacion que se pueda agregar al pie de la tabla.
 
